@@ -1,0 +1,9 @@
+# folders
+*.git
+*.vs
+Debug
+
+
+# files
+*.sln
+*.vcxproj*
