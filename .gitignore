@@ -1,9 +1,6 @@
 # folders
 *.git
 *.vs
-Debug
-
+build
 
 # files
-*.sln
-*.vcxproj*
